@@ -1,0 +1,3 @@
+- [ ] this is a unchecked box
+- [X] this is a checked box
+- [x] this is also a checked box 
