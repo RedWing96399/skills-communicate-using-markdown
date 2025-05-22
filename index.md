@@ -1,1 +1,6 @@
- ![This is a image alternate value](https://octodex.github.com/images/yaktocat.png)
+```go
+
+var x := 3
+fmt.Println("this is a code block with value",x)
+
+```
