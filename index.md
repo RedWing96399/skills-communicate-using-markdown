@@ -1,6 +1,3 @@
-```go
-
-var x := 3
-fmt.Println("this is a code block with value",x)
-
-```
+- [ ] this is a unchecked box
+- [X] this is a checked box
+- [x] this is also a checked box 
